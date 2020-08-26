@@ -45,7 +45,7 @@ td{
 	margin:auto;
 	text-align:center;
 	height: 900px;
-	
+
 }
 .color{
 	color: #FF9F00;
@@ -74,7 +74,7 @@ td{
 .book-now{
 	background-color:#5baf37;
 	color: #fff;
-	
+
 }
 
 .book-an-appointment{
@@ -82,7 +82,17 @@ td{
     color: rgb(11,57,96,0.9);
     font-size: 2.5em;
 }
+.sunny-morning-gradient-text {
+    background-color: red;
+    background-image: linear-gradient(120deg,#ffa354 0,#ff3900 100%);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
 
-
-
-
+.signature {
+    font-size: x-large;
+}
